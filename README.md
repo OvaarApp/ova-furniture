@@ -82,9 +82,7 @@ We are a Togolese tech company focused on building full-stack digital solutions 
 From backend architecture to frontend polish – we deliver fast, secure, and beautiful apps.
 
 ---
-
 ## 🔗 Contact & Links
 
-- 🌐 Website: https://ovaar.tech
-- 💼 LinkedIn: https://www.linkedin.com/company/ovaar
-- 📧 Email: contact@ovaar.tech  
+- 🌐 Website: [ovaar.net](https://ovaar.net)
+- 💼 LinkedIn: [Ovaar on LinkedIn](https://www.linkedin.com/company/ovaar)
